@@ -17,8 +17,8 @@ The [Telnet](http://wikipedia.org/wiki/telnet) or "teletype network",is a protoc
 
 [TELNET](https://ru.wikipedia.org/wiki/telnet) (сокр. от англ. teletype network) — сетевой протокол для реализации текстового интерфейса по сети (в современной форме — при помощи транспорта TCP). 
 
-The basic topology of Telnet network testing is as follows:
-
+The basic topology of Telnet network testing is as follows:  
+![telnet](https://github.com/yaakovazat/network-technology/blob/master/telnet1.gif)  
 2017 年，PWA 已经成为 web 应用新的风潮。我们决定试试，以我们现有的“Vue + 多页”的架构，能在升级 PWA 的道路上走多远，达到怎样的效果。
 
 
