@@ -59,14 +59,14 @@ Switch(config-if)#
 6. Then configure the PC.  
 ![configure pcip](https://github.com/yaakovazat/network-technology/blob/master/02.png)  
 7. Then configure the PC's gateway
-![gateway config](github.com/yaakovazat/network-technology/blob/master/03.png)  
+![gateway config](/03.png)  
 8. Then call the PC cmd command line program
     * Enter the ``ipconfig / all`` command to view the configuration of the PC
     * ``Ping 192.168.1.254`` command, view the network connection
     * then Telnet Switch：``telnet 192.168.1.254``
     * Then enter the password and user name
     * Swith to Telnet successful !
-![pc-cmd](github.com/yaakovazat/network-technology/blob/master/04.png)  
+![pc-cmd](/04.png)  
 
 ### Finally all i did step by step  
 ![telnet](https://github.com/yaakovazat/network-technology/blob/master/telnet1.gif)  
